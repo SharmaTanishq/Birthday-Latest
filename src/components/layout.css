@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap');
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Lato", cursive;
+}
+
+:root{
+  --black: rgba(0, 0, 0, 1);
+  --eerie-black: rgba(23, 23, 23, 1);
+  --emerald: rgba(46, 204, 113, 1);
+  --cinnabar: rgba(231, 76, 60, 1);
+  --gray-nurse: rgba(234, 234, 234, 1);
+  --corn: rgba(241, 196, 15, 1);
+  --white: rgba(255, 255, 255, 1);
+
+  --font-size-xs: 0.6vw;
+  --font-size-s: 0.7vw;
+  --font-size-m: 1.3vw;
+  --font-size-l: 1.5vw;
+  --font-size-xl: 1.8vw;
+  --font-size-xxl: 2.1vw;
+  --font-size-xxxl: 2.5vw;
+  --font-size-xxxxl: 30px;
+  --font-size-xxxxxl: 4vw;
+  --font-size-xxxxxxl: 88px;
+}
